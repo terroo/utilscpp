@@ -38,4 +38,5 @@ To compile this test, run:
 ```sh
 make install clean
 ./help
+./help --help
 ```
