@@ -26,11 +26,11 @@ Basic example of use `vim main.cpp`:
 ```cpp
 #include "help.hh"
 int main(int argc, char** argv){
-	Help help;
-	help.m_help(argc, argv);
-	help.m_dhelp();
-  std::cout << "Start my program ..." << '\n';
-	return 0;
+    Help help;
+    help.m_help(argc, argv);
+    help.m_dhelp();
+    std::cout << "Start my program ..." << '\n';
+    return 0;
 }
 ```
 
