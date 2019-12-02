@@ -126,4 +126,19 @@ make install clean
 
 ***
 
+# [dec2bin](https://github.com/terroo/utilscpp/tree/master/dec2bin) `dec2bin`
+Convert decimal to binary
+
+## Compiling
+
+```sh
+mkdir build && cd build
+cmake ..
+make
+./dec2bin 81
+1010001
+```
+
+***
+
 By <https://terminalroot.com.br>
