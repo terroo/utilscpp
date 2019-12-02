@@ -6,7 +6,7 @@ My C++ Utility Library
 
 ***
 
-# colors
+# [Colors C++](https://github.com/terroo/utilscpp/tree/master/colors) `colors`
 
 Library to print your strings with a single function (object)
 
@@ -78,7 +78,8 @@ Use the `-h` or `--help` option to see available colors and other information. E
 
 ***
 
-# helpcpp
+# [Help C++](https://github.com/terroo/utilscpp/tree/master/help) `help`
+
 Easily add help to your program
 
 ## How to use
