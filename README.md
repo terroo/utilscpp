@@ -121,4 +121,4 @@ make install clean
 
 ***
 
-By <terminalroot.com.br>
+By <https://terminalroot.com.br>
