@@ -4,7 +4,7 @@
 
 My C++ Utility Library
 
-![C++ Utils Terminal Root](utilscpp.png)
+![C++ Utils Terminal Root](img/utilscpp.png)
 
 ***
 
