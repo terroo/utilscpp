@@ -126,7 +126,7 @@ make install clean
 
 ---
 
-# [dec2bin](https://github.com/terroo/utilscpp/tree/master/dec2bin) `dec2bin`
+# [Decimal to binary](https://github.com/terroo/utilscpp/tree/master/dec2bin) `dec2bin`
 Convert decimal to binary
 
 ## Compiling
@@ -141,7 +141,7 @@ make
 
 ---
 
-# [bin2dec](https://github.com/terroo/utilscpp/tree/master/bin2dec) `bin2dec`
+# [Binary to decimal](https://github.com/terroo/utilscpp/tree/master/bin2dec) `bin2dec`
 Convert binary to decimal
 
 ## Compiling
