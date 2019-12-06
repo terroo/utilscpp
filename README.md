@@ -6,7 +6,7 @@ My C++ Utility Library
 
 ![C++ Utils Terminal Root](img/utilscpp.png)
 
-***
+---
 
 # [Colors C++](https://github.com/terroo/utilscpp/tree/master/colors) `colors`
 
@@ -78,7 +78,7 @@ Use the `-h` or `--help` option to see available colors and other information. E
 ./colors --help
 ```
 
-***
+---
 
 # [Help C++](https://github.com/terroo/utilscpp/tree/master/help) `help`
 
@@ -124,7 +124,7 @@ make install clean
 ./help --help
 ```
 
-***
+---
 
 # [dec2bin](https://github.com/terroo/utilscpp/tree/master/dec2bin) `dec2bin`
 Convert decimal to binary
@@ -139,6 +139,27 @@ make
 1010001
 ```
 
-***
+---
+
+# [bin2dec](https://github.com/terroo/utilscpp/tree/master/bin2dec) `bin2dec`
+Convert binary to decimal
+
+## Compiling
+
+```sh
+mkdir build && cd build
+cmake ..
+make
+./bin2dec 111010
+# 58
+```
+
+Alternatively use GNU Make
+```sh
+./bin2dec 10110
+# 22
+```
+
+---
 
 By <https://terminalroot.com.br>
