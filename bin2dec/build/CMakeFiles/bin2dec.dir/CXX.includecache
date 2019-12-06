@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcos/bin2dec/lib/bin2dec.h
+
+/home/marcos/bin2dec/src/bin2dec.cpp
+iostream
+-
+cctype
+-
+../lib/bin2dec.h
+/home/marcos/bin2dec/lib/bin2dec.h
+
+/home/marcos/bin2dec/src/main.cpp
+iostream
+-
+cctype
+-
+../lib/bin2dec.h
+/home/marcos/bin2dec/lib/bin2dec.h
+
