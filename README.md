@@ -162,4 +162,4 @@ Alternatively use GNU Make
 
 ---
 
-By <https://terminalroot.com.br>
+By <https://en.terminalroot.com.br>
