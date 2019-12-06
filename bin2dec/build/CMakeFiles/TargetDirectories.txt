@@ -1,3 +1,0 @@
-/home/marcos/bin2dec/build/CMakeFiles/rebuild_cache.dir
-/home/marcos/bin2dec/build/CMakeFiles/bin2dec.dir
-/home/marcos/bin2dec/build/CMakeFiles/edit_cache.dir
