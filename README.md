@@ -162,7 +162,7 @@ Alternatively use GNU Make
 
 ---
 
-# [Binary to hexdecimal](https://github.com/terroo/utilscpp/tree/master/dec2hex) `dec2hex`
+# [Decimal to hexdecimal](https://github.com/terroo/utilscpp/tree/master/dec2hex) `dec2hex`
 Convert decimal to hexadecimal
 
 ## Compiling
@@ -175,6 +175,21 @@ make
 # 7AB5FB
 ./dec2hex 13021952
 # C6B300
+```
+
+---
+
+# [Hexadecimal to decimal](https://github.com/terroo/utilscpp/tree/master/dec2hex) `hex2dec`
+Convert hexadecimal to decimal
+
+## Compiling
+
+```sh
+make
+./hex2dec A82EB9
+# 11022009
+./hex2dec 10542C5
+# 17121989
 ```
 
 ---
