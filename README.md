@@ -259,8 +259,6 @@ Run the program entering one or more years as parameter.
 2020 is a leap year.
 ```
 
-By [Marcos Oliveira](https://terminalroot.com.br)
-
 ---
 
 By [Marcos Oliveira](https://terminalroot.com.br)
